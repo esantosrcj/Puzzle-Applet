@@ -1,2 +1,2 @@
 # Puzzle-Applet
-EECS 448 semester project
+EECS 448 [Software Engineering] semester project
